@@ -1,10 +1,11 @@
 ---
-description: An introduction to the concept of Distributed Design
+
 cover: ../.gitbook/assets/git_header (2).png
 coverY: 0
 ---
 
 # 〰 Distributed Design?
+### An introduction to the concept of Distributed Design
 
 ![Centralized, decentralized and distributed network models by Paul Baran (1964)](<../.gitbook/assets/Screenshot 2021-10-26 12.35.09 PM.png>)
 
@@ -41,9 +42,6 @@ Distributed Design changes the entire nature of the way that goods are manufactu
 |                     Profit goes to shareholders of large companies                    |       Profit distributed across smaller organisations and individuals      |
 |                    Top down instruction from the top of the system                    |                  Collaboration between nodes in the system                 |
 
-{% content-ref url="batch.works.md" %}
-[batch.works.md](batch.works.md)
-{% endcontent-ref %}
 
 
 
